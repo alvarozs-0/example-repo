@@ -1,6 +1,6 @@
-##Financial Calculator 
+## Financial Calculator 
 
-###This program allows the user to choose between two financial calculators:
+### This program allows the user to choose between two financial calculators:
 1. Investment Calculator - calculates total return on investment with simple or compound interest.
 2. Bond Calculator - calculates monthly repayments on a home loan.
 
